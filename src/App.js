@@ -11,6 +11,7 @@ class App extends React.Component{
             <div> hello world</div>
             <div> how are you</div>
             <div> i am new </div>
+            <div> a new change </div>
 
             </div>
         )
