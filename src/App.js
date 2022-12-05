@@ -6,6 +6,8 @@ class App extends React.componet{
     render(){
         return(
             <div> hello world</div>
+            <div> how are you</div>
+            <div> i am new </div>
         )
     }
 }
